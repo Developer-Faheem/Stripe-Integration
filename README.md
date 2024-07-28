@@ -1,5 +1,3 @@
-Here's a concise version of the README for your Stripe payment integration project in Flutter:
-
 ---
 
 # Stripe Payment Integration in Flutter
